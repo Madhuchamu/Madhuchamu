@@ -1,8 +1,9 @@
 # 💫 About Me:
-DevOps Engineer with 3.8years of experience, currently at Microland, supporting GE production environments. Strong expertise in building, automating, and maintaining reliable cloud and DevOps infrastructure.<br>Hands-on experience with CI/CD pipelines, Linux systems, AWS and Azure, and Infrastructure as Code using Terraform (multi-cloud Azure environments) and CloudFormation (CloudWAN & Suricata rule automation via GitHub). Skilled in Docker and Kubernetes for containerization and orchestration.<br>Certified AWS Associate and Terraform Associate. Proven track record in production support, troubleshooting complex infrastructure issues, and automation to improve deployment speed, stability, and uptime. Collaborative team player with strong ownership, effective communication, and a passion for continuous learning and system improvement.
+DevOps Engineer with 3.8 years of experience, currently at Microland, supporting GE production environments. Strong expertise in building, automating, and maintaining reliable cloud and DevOps infrastructure.<br>Hands-on experience with CI/CD pipelines, Linux systems, AWS and Azure, and Infrastructure as Code using Terraform (multi-cloud Azure environments) and CloudFormation (CloudWAN & Suricata rule automation via GitHub). Skilled in Docker and Kubernetes for containerization and orchestration.<br>Certified AWS Associate and Terraform Associate. Proven track record in production support, troubleshooting complex infrastructure issues, and automation to improve deployment speed, stability, and uptime. Collaborative team player with strong ownership, effective communication, and a passion for continuous learning and system improvement.
 
 
 ## 🌐 Socials:
+content creator on YouTube
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madhu-sudana-v-01398a87) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Madhuchamu.in@gmail.com) 
 
 # 💻 Tech Stack:
